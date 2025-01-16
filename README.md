@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_prj
 
 A new Flutter project.
@@ -14,3 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# I_am_Rich
+VanHoc 22SE1B
+>>>>>>> 6c381801dde2cfad4654cda48b048d290ce1cc71
+# Lap1_I_Am_Rich
